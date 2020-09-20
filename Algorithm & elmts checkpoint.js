@@ -2,7 +2,7 @@ function sentenceRead() {
   let sentence = prompt("enter your sentence ended with a dot", "");
   let sentenceArrW = sentence.split(" ");
   let sentenceArr = sentence.split("");
-
+//y
   let vowels = ["a", "e", "i", "o", "u"];
 
   let letterCount = 0;
